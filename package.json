@@ -1,0 +1,24 @@
+{
+  "name": "sit725-2021-t2-prac2-new",
+  "version": "1.0.0",
+  "description": "sit 725 week 2 prac",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2-new.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Navit Choudhary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2-new/issues"
+  },
+  "homepage": "https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2-new#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
